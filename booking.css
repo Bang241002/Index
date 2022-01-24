@@ -1,0 +1,41 @@
+.center-ide{
+    display: flex;
+    background-color: rgba(70, 8, 8, 0.918);
+}
+.center-ixem{
+    margin-left: 500px;
+    margin-top: 150px;
+    width: 550px;
+    height: 350px;
+    border: 1px solid rgb(224, 215, 215);
+}
+
+.center-ixem img {
+    height :200px;
+    width :100%;
+}
+
+.center-iseo {
+    text-align:center
+}
+
+.center-iten{
+    margin:10px;
+    text-align: center;
+}
+
+.row{
+    margin-top: 5px;
+}
+
+.center-item{
+    margin-top: 150px;
+    width: 550px;
+    height: 350px;
+    align-items: center;
+}
+
+.btn btn-warning{
+    width:97%;
+    margin-bottom : 10px;
+}
